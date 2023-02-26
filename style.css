@@ -64,14 +64,16 @@ h2 {
   height: 350px;
   padding: 20px;
   border-radius: 15px;
-  margin: -10px;
+  margin-left: -10px;
+  margin-right: 0;
   background: linear-gradient(85deg,#434343,#262626);
   box-shadow: -30px 0px 35px #111010;
 }
 
 .box:hover {
   transform: translate(-90px, -12px) rotate(5deg);
-  transition: 0.3s;
+  transition: 0.4s;
   margin-right: 30px;
+  opacity: 0.97;
 }
 
