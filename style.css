@@ -60,7 +60,7 @@ h2 {
   flex-direction: column;
   justify-content: space-between;
   width: 300px;
-  height: 350px;
+  height: 360px;
   padding: 20px;
   border-radius: 15px;
   margin: -5px;
@@ -69,7 +69,7 @@ h2 {
 }
 
 .box:hover {
-  transform: translate(-20px, -20px) rotate(10deg);
+  transform: translate(-25px, -10px) rotate(5deg);
   transition: 0.3s;
   margin-right: 30px;
 }
