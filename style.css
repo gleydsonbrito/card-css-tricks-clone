@@ -69,7 +69,7 @@ h2 {
 }
 
 .box:hover {
-  transform: translate(-25px, -10px) rotate(5deg);
+  transform: translate(-25px, -12px) rotate(5deg);
   transition: 0.3s;
   margin-right: 30px;
 }
